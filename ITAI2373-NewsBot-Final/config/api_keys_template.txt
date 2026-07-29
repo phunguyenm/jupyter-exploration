@@ -1,0 +1,12 @@
+# ============================================================
+# API Keys Template for NewsBot 2.0
+# ============================================================
+# IMPORTANT: Do NOT put real API keys in this file!
+# This file is a TEMPLATE only — it shows what keys you need.
+#
+# To use real keys:
+#   1. Copy this file and rename it to api_keys.txt
+#   2. Fill in your real keys in api_keys.txt
+#   3. Make sure api_keys.txt is in your .gitignore
+#      so it never gets uploaded to GitHub!
+# ============================================================
